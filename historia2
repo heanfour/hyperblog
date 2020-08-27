@@ -1,0 +1,40 @@
+Service Patterns : Service Inmplementatio Patterns. 
+1.- Containerization (Stoffers )
+
+Service Patterns : Patrones de Implementacion
+2.- Microsevice Deployment (Merson)
+
+Service Patterns :: Legacy Encapsulation Patterns 
+File Gateway (Roy)
+Legacy Wrapper(Erl, Roy)
+Multi- Channel Endpoint (Roy)
+
+Service Patterns :: Service Govermance Patterns
+Service Decomposition (Erl)
+
+Service Patterns :: Service Refactoring 
+
+Termination Notification (Orchard, Riley)
+
+Service Messaging Patterns
+Asynchronous Queuing (Little, Rischbeck, Simo)
+
+Service Patterns :: Intermediate Routing 
+Event-Driven Messaging (Little, Rischbeck, Simo) - Big data
+
+MuleSoft - * 
+Service Messaging Patterns
+Service Agent (Erl)
+
+Service Callback (Service Messaging Patterns)
+
+Service Instance Routing (Karmarkar)
+
+
+-Temas de Integracion
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/
+https://microservices.io/patterns/
+https://patterns.arcitura.com/soa-patterns
+https://www.opengroup.org/soa/source-book/soa_refarch/index.htm
+
+

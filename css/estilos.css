@@ -1,5 +1,18 @@
 body{
-    color: darkviolet;
+    
     text-align:center;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.contenedor{
+
+    border:10px;
+    color:greenyellow;
+    align-content: center;
+}
+
+p{
+
+    border-block-color: inherit;
+    color: lightcoral;
 }
